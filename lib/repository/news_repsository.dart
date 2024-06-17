@@ -5,6 +5,8 @@ import 'package:http/http.dart' as http;
 import 'package:news_api_app/models/categories_news_model.dart';
 import 'package:news_api_app/models/news_channel_headline_model.dart';
 
+
+
 class NewsRepsository {
   Future<NewsChannelHeadlinesModel> fetchNewsChannelHeadlinesApi(
       countryCode) async {
