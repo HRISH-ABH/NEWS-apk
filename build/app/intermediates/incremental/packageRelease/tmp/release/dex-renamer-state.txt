@@ -1,0 +1,4 @@
+#Mon Jun 17 21:40:35 IST 2024
+base.0=C\:\\Users\\chauh\\OneDrive\\Desktop\\flutter_projects\\news_api_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
